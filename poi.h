@@ -1,6 +1,6 @@
-#isndef POI_H
+#ifndef POI_H
 #define POI_H
 
 int poi(int);
 
-#enddef
+#endif
